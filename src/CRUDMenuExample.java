@@ -64,4 +64,9 @@ public class CRUDMenuExample {
             }
         }
     }
+
+    public static void main(String[] args) {
+        CRUDMenuExample menu = new CRUDMenuExample();
+        menu.run();
+    }
 }
